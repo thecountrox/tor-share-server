@@ -1,0 +1,26 @@
+{
+  "name": "tor-share-server",
+  "version": "1.0.0",
+  "description": "A TorShare compatible server",
+  "keywords": [
+    "TorShare"
+  ],
+  "license": "ISC",
+  "author": "Prajol David",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "crypto": "^1.0.1",
+    "express": "^5.1.0",
+    "fs-extra": "^11.3.0",
+    "http": "^0.0.1-security",
+    "path": "^0.12.7",
+    "socket.io": "^4.8.1",
+    "socks-proxy-agent": "^8.0.5"
+  }
+}
