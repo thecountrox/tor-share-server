@@ -1,9 +1,9 @@
 node_modules/
-tor-data/authorized_clients
-tor-data/hostname
-tor-data/hs_ed25519_secret_key
-tor-data/state
-tor-data/keys
-tor-data/hs_ed25519_public_key
-tor-data/lock
+/tor-data/authorized_clients
+/tor-data/hostname
+/tor-data/hs_ed25519_secret_key
+/tor-data/state
+/tor-data/keys
+/tor-data/hs_ed25519_public_key
+/tor-data/lock
 
